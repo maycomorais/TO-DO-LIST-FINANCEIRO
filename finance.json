@@ -1,0 +1,22 @@
+[
+  {
+    "descricao": "Comprar casa",
+    "valor": 300.000,
+    "meta": true
+  },
+  {
+    "descricao": "Comprar carro",
+    "valor": 80.000,
+    "meta": true
+  },
+  {
+    "descricao": "Inscrever Curso Desenvolvedor",
+    "valor": 39.000,
+    "meta": true
+  },
+  {
+    "descricao": "Mudar para Portugal",
+    "valor": 80.000,
+    "meta": false
+  }
+]
